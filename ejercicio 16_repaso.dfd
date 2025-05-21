@@ -1,0 +1,83 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+acu
+1
+0
+6
+litros
+2
+10
+9
+1
+10
+acu<litros
+4
+1
+179
+'Digite la cantidad de agua que desea', '                               1) litros','                                                                                2) mililitros' 
+5
+1
+6
+medida
+7
+0
+1
+10
+medida = 1
+4
+1
+35
+'Digite la cantidad de mililitros' 
+5
+1
+2
+ml
+6
+2
+4
+conv
+7
+ml/1000
+3
+acu
+8
+acu+conv
+13
+4
+1
+31
+'Digite la cantidad de litros' 
+5
+1
+6
+litros
+6
+1
+3
+acu
+10
+acu+litros
+13
+6
+1
+5
+resta
+10
+litros-acu
+4
+1
+53
+'Cantidad de agua en litros disponible es : ' , resta
+11
+4
+1
+25
+'No hay agua suficiente' 
+1

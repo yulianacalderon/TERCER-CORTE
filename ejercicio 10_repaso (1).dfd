@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+saldo
+6
+100000
+4
+1
+27
+'Digite el valor a retirar'
+5
+1
+3
+din
+9
+1
+11
+din<= saldo
+6
+1
+5
+saldo
+9
+saldo-din
+4
+1
+5
+saldo
+7
+0
+1
+9
+saldo = 0
+4
+1
+27
+'Digite el valor a retirar'
+5
+1
+3
+din
+13
+4
+1
+30
+'Haz retirado todo tu dinero' 
+13
+11
+4
+1
+23
+'Fondos insuficientes' 
+1

@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+3
+acu
+1
+0
+4
+cont
+1
+0
+1
+t
+6
+300000
+9
+1
+7
+acu <t 
+4
+1
+34
+'Digite el ahorro de esta semana' 
+5
+1
+6
+ahorro
+6
+3
+3
+acu
+10
+acu+ahorro
+4
+cont
+6
+cont+1
+5
+resta
+7
+t - acu
+4
+1
+38
+'Dinero faltante para ahorrar: ' resta
+11
+4
+1
+42
+'Cantidad de semanas para ahorrar: ', cont
+1

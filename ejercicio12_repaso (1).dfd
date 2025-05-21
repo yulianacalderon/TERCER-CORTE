@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+gasolina
+2
+30
+2
+km
+1
+0
+3
+acu
+1
+0
+9
+1
+13
+acu< gasolina
+4
+1
+46
+'Digite la cantidad de kilometros recorridos' 
+5
+1
+5
+kilom
+6
+3
+4
+cons
+9
+kilom*0.1
+3
+acu
+8
+acu+cons
+5
+resta
+12
+gasolina-acu
+4
+1
+42
+'Cantidad de litros disponibles: ' , resta
+11
+4
+1
+17
+'Sin combustible'
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+3
+alm
+2
+50
+3
+acu
+1
+0
+9
+1
+7
+acu<alm
+4
+1
+43
+'Digite la cantidad de almuerzos vendidos' 
+5
+1
+4
+cant
+6
+2
+3
+acu
+8
+acu+cant
+5
+resta
+7
+alm-acu
+4
+1
+45
+'Cantidad de almuerzos que hay es : ' , resta
+11
+4
+1
+19
+'No hay almuerzos '
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+29
+'Ingrese el inicio del rango'
+5
+1
+6
+inicio
+4
+1
+28
+'Ingrese el final del rango'
+5
+1
+5
+final
+6
+1
+3
+acu
+1
+0
+9
+1
+13
+inicio<=final
+6
+2
+3
+acu
+10
+acu+inicio
+6
+inicio
+8
+inicio+1
+11
+4
+1
+36
+'El valor de la sumatoria es: ', acu
+1

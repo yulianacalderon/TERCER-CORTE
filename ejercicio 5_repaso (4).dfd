@@ -1,0 +1,86 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+cont
+1
+0
+5
+contM
+1
+0
+5
+contH
+1
+0
+9
+1
+9
+cont < 20
+4
+1
+100
+'1) MUJER ', '                                                                            2) HOMBRE'
+5
+1
+4
+tipo
+4
+1
+17
+'Digite la edad' 
+5
+1
+4
+edad
+7
+0
+1
+22
+tipo = 1 and edad >=18
+7
+0
+1
+23
+tipo = 2 and edad >= 18
+4
+1
+44
+'No cumple con los requisitos para ingresar'
+13
+6
+1
+5
+contH
+7
+contH+1
+13
+13
+6
+1
+5
+contM
+7
+contM+1
+13
+6
+1
+4
+cont
+12
+contM +contH
+11
+4
+1
+19
+'No hay mas cupos' 
+4
+1
+173
+'Cantidad de mujeres mayores de edad : ' , contM ,  '                  Cantidad de hombres mayores de edad : ' , contH , '              Cantidad total de personas : ' , cont
+1

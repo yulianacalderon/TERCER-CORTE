@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+suma
+1
+0
+4
+cont
+1
+0
+4
+desc
+1
+0
+9
+1
+14
+desc < 300000 
+4
+1
+30
+'Digite el valor del producto'
+5
+1
+4
+prod
+6
+2
+4
+suma
+9
+suma+prod
+4
+desc
+15
+suma-(suma*0.1)
+7
+0
+1
+14
+desc >= 300000
+4
+1
+4
+desc
+6
+1
+4
+cont
+6
+cont+1
+13
+4
+1
+21
+'DInero insuficiente'
+13
+11
+4
+1
+40
+'Cantidad de productos comprados ', cont
+1
